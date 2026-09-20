@@ -22,5 +22,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "Bicisport"
+rootProject.name = "BiciSpotCompose"
 include(":app")
+ 
